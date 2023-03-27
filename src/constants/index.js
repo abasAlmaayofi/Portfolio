@@ -32,7 +32,7 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "Education",
+    id: "education",
     title: "Education",
   },
   {
@@ -115,7 +115,7 @@ const technologies = [
   },
 ];
 
-const experiences = [
+const educations = [
   {
     title: "B.S. in Computer Engineering",
     company_name: "American University of Kuwait (AUK)",
@@ -123,7 +123,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2020 - Jan 2023",
     points: [
-  
+      "the cat was found dead",
     ],
   },
   {
@@ -257,4 +257,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, educations, testimonials, projects };
