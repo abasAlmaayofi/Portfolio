@@ -123,7 +123,6 @@ const educations = [
     iconBg: "#383E56",
     date: "Jan 2020 - Jan 2023",
     points: [
-      "the cat was found dead",
     ],
   },
   {
